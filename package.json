@@ -1,0 +1,22 @@
+{
+  "name": "neildhir",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagglefoot/wagglefoot.github.io.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Neil Dhir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagglefoot/wagglefoot.github.io/issues"
+  },
+  "homepage": "https://github.com/wagglefoot/wagglefoot.github.io#readme"
+}
