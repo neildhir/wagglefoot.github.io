@@ -4,7 +4,8 @@
   "description": "Personal website",
   "main": "index.html",
   "scripts": {
-    "test": "test"
+       "start": "http-server -p 8000 -c-1",
+        "test": "prettier --check 'index.html'"
   },
   "repository": {
     "type": "git",
